@@ -1,5 +1,4 @@
 
-/*comment added */
 #include <stdio.h>
 
 int main ()
