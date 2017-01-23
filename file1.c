@@ -1,3 +1,5 @@
+/* comment added */
+
 #include <stdio.h>
 void func (void);
 int c = 10;
